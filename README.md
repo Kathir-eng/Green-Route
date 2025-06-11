@@ -3,7 +3,7 @@
 ### Contact through Email: harikathir2004@gmail.com
 
 ## Overview
-Green Route is an innovative mobile application designed to bridge the gap between farmers and consumers by eliminating middlemen and promoting sustainable agricultural practices. Available on both Android and iOS platforms, the app provides farmers with direct access to local markets, enabling them to sell their produce at fair prices while ensuring consumers receive fresh, locally sourced goods.
+Green Route is an innovative mobile application designed to bridge the gap between farmers and consumers by eliminating middlemen and promoting sustainable agricultural practices. Available on both Android and iOS platforms, the app provides farmers with direct access to local markets, enabling them to sell their produce at fair prices while ensuring consumers receive fresh, locally sourced goods
 
 ## Key Features
 - **Direct Market Access**: Farmers can list and sell their produce directly to consumers, retailers, and institutional buyers.
